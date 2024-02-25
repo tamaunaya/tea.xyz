@@ -1,0 +1,2 @@
+# tea.xyz
+tea testnet
